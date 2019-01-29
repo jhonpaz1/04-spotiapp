@@ -2,4 +2,5 @@
 Aplicación #4: SpotiApp
 
 Aplicación en Angular que consume servicios web de la página de Spotify
-https://developer.spotify.com/dashboard/login
+Url para consumir servicios de spotify: https://developer.spotify.com/dashboard/login
+
